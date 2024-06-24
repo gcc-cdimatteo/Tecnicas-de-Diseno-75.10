@@ -6,3 +6,6 @@ Repositorio de material para Técnicas de Diseño (75.10), 2023C1, Facultad de I
 
 ## Agradecimientos
 Gracias a mis amigos @Tomas-Apaldetti y @agussandrade por evitar que tire la toalla acá 😳
+
+## Coffee Time
+Si el material te es de utilidad, [invitame un cafecito](https://cafecito.app/gcc-cdimatteo) :)
